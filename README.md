@@ -1,5 +1,5 @@
 # Python para Leigos
-Este repositório é um guia simples para o aprendizado da linguagem Python, lógica de programação e boas práticas de desenvolvimento.
+> Este repositório é um guia simples para o aprendizado da linguagem Python, lógica de programação e boas práticas de desenvolvimento.
 
 ## 🗺️ Trilha de Estudos Recomendada
 Siga a ordem dos módulos estruturados para um aprendizado progressivo:
