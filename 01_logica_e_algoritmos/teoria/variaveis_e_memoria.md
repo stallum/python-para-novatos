@@ -27,5 +27,6 @@ Apesar dessas diferenças, quase todas as linguagens concordam em um conjunto de
 - **Conflito de tipo.** Obviamente é impossível somar um numero a um texto. Mas também, em outras linguagens, não é possível somar um float a um int sem ter um erro, caso não tenha-se a devida mudança de tipo.
 -  **Problemas de escopo.** Tentar usar uma variável fora do bloco de código onde ela foi declarada. Por exemplo, usar uma variável criada dentro de uma função, mas lado de fora dela, para saber mais sobre função recomendo essa apostila em python.
 
-## Boas práticas no uso de *Variáveis*
+---
 
+**Usem nomes descritivos em variáveis.** Uma regra de ouro para criação de uma varável é que ela seja simples de entender por outras pessoas que vão ler seu código. Uma variável chamada x ou n não nos diz nada. Mas uma variável chamada precoFinal ou idadeDoCliente conta uma história e documenta o próprio código. Existe uma frase famosa de Robert C. Martin, do livro "Código Limpo" que resume tudo isso: "Você deve nomear uma variável com o mesmo cuidado com que nomeia um filho". É um lembrete da importância de tratar nosso código com o máximo de clareza.
