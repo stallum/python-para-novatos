@@ -73,8 +73,8 @@ print(y)
 o resultado apresentado é: `1`, já que todo número impar dividido por 2 tem "1" como resto.
 
 ## Tipos Textuais
-Em python há apenas um tipo primitivo relacionado diretamente a texto, o conhecido como `strings`, uma coleção concatenada[^1] de caractéres, que em python são apenas `strings` concatenadas a `strings`.
+Em python há apenas um tipo primitivo relacionado diretamente a texto, o conhecido como `strings`, uma coleção concatenada¹ de caractéres, que em python são apenas `strings` concatenadas a `strings`.
 
 
-
-[^1]: isso significa associadas
+---
+¹Isso significa associadas
